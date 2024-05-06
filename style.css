@@ -909,10 +909,15 @@ footer .arriba{
     .portfolio .galeria .proyecto img{
         width: 100%;
     }
-    .contacto .fila{
+        .contacto .fila{
         display: block;
     }
     .contacto .fila .col{
         width: 100%;
+        height: 400px;
+    }
+    .info {
+        width: 270px;
+        margin-top: 170px;
     }
 }
