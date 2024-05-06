@@ -888,6 +888,14 @@ footer .arriba{
     .skills .fila .col .barra-skill{
         width: 100%;
     }
+    .skilla img {
+        width: 60px; 
+        height: 70px;
+    }
+    .skill img {
+        width: 60px; 
+        height: 70px;
+    }
 
     .curriculum .fila{
         display: block;
@@ -909,7 +917,9 @@ footer .arriba{
     .portfolio .galeria .proyecto img{
         width: 100%;
     }
-        .contacto .fila{
+   
+
+    .contacto .fila{
         display: block;
     }
     .contacto .fila .col{
@@ -920,4 +930,5 @@ footer .arriba{
         width: 270px;
         margin-top: 170px;
     }
+   
 }
